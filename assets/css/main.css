@@ -3528,9 +3528,13 @@
 
 
 			}
-			#three h3, #three h2, #three p, #three button{
+			#three h3, #three h2, #three p{
 				color: white;
+			}
 
+			#three .button.alt{
+			    box-shadow: inset 0 0 0 2px white;
+    			color: white !important;
 			}
 
 			.column {
